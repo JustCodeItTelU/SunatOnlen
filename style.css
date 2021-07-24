@@ -1,8 +1,8 @@
 body {
-   min-height: 2000px;
+  min-height: 1500px;
 }
 .jumbotron {
-  padding-top: 2rem;
-  background-color: #a0e9f1;
-  font-family: 'Dancing Script', cursive;
+ padding-top: 2rem;
+ background-color: #a0e9f1;
+ font-family: 'Dancing Script', cursive;
 }
