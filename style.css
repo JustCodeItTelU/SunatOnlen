@@ -10,3 +10,10 @@ body {
 #Fact {
   background-color: #a0e9f1;
 }
+
+.card-title {
+  white-space: nowrap;
+  width: 150px,fixed;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
